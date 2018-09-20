@@ -2,7 +2,9 @@
 This project is a stroke-based printer with image processing. The printer was built with an Arduino, with movements controlled by stepper motors, and could take any input image. The device was designed to be able to move the 3 dimensions, with a 'canvas' being able to be layed on the x-y plane and a pen (to draw out the image) held parrallel to the y-z plane. These two planes were able to move, controlled by the stepper motor, to allow for all two dimensional movement. In addition the pen was able to move up and down by using a servo, this allowing for lines to be discontinuous. 
 
 Here is the plotter in action:
-[video]
+
+![alt text](https://github.com/thgao/CNCPlotter/blob/master/src/Image%20Processing%20Output%20Images/goosedrawing.gif)
+
 
 
 # Image Processing 
