@@ -3,8 +3,6 @@ This project is a stroke-based printer with image processing. The printer was bu
 
 Here is the plotter in action:
 
-![alt text](https://github.com/thgao/CNCPlotter/blob/master/src/Image%20Processing%20Output%20Images/goosedrawing.gif)
-
 
 
 # Image Processing 
