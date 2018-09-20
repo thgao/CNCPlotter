@@ -23,6 +23,10 @@ For example, here is a sample image:
 
 with it's output on paper:
 
+![alt text](https://raw.githubusercontent.com/thgao/CNCPlotter/master/src/Image%20Processing%20Output%20Images/CNC%20Goose%20Drawing.jpg)
+
+
+
 # Pathway Detection
 The final outlined image is converted to coordinates by detecting black pixels as an ordered pair. This process is done chronologically and generates a list of coordinates. Developing this printer required a pathway detection functionality to be created so that the image is drawn out in a continuous line, unlike you everyday dot printer.
 
